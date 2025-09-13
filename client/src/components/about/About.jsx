@@ -27,27 +27,27 @@ const About = () => {
         <Box>
             <Banner/>
             <Wrapper>
-                <Typography variant="h3">Shashwat Saxena</Typography>
-                <Text variant="h5">Hi 👋, I'm Shashwat Saxena
+                <Typography variant="h3">Upam Kumar</Typography>
+                <Text variant="h5">Hi 👋, I'm Upam Kumar
                 A passionate Full Stack Web Devloper from India
                 Built websites, UI/UX design's<br />
                 If you are interested, you can view some of my favorite projects here
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://github.com/2004shashwat17" color="inherit" target="_blank"><GitHub /></Link>
+                        <Link href="https://github.com/upamkuma" color="inherit" target="_blank"><GitHub /></Link>
                     </Box>
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://github.com/2004shashwat17" color="inherit" target="_blank"><LinkedIn/></Link>
+                        <Link href="https://www.linkedin.com/in/upam-kumar-26530528b/" color="inherit" target="_blank"><LinkedIn/></Link>
                     </Box>
                 </Text>
                 <Text variant="h5">
                     Need something built or simply want to have chat? Reach out to me on
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://www.instagram.com/shashwats500/" color="inherit" target="_blank">
+                        <Link href="https://www.instagram.com/singhupam007/" color="inherit" target="_blank">
                             <Instagram />
                         </Link>
                     </Box>  
                         or send me an Email 
-                        <Link href="mailto:shashwats500@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
+                        <Link href="mailto:upamkumar096@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
                             <Email />
                         </Link>.
                 </Text>
